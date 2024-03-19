@@ -1,15 +1,15 @@
 {
-    "name": "electron-calculator",
+    "name": "my-electron-app",
     "version": "1.0.0",
-    "description": "",
+    "description": "Hello World!",
     "main": "main.js",
     "scripts": {
-        "start": "electron .", 
+        "start": "electron .",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Jane Doe",
+    "license": "MIT",
     "devDependencies": {
-        "electron": "^29.1.4"
+        "electron": "23.1.3"
     }
 }
